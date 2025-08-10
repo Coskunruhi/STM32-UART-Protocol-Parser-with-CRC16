@@ -1,0 +1,22 @@
+# Build artifacts
+**/Debug/
+**/Release/
+**/build/
+**/.settings/
+**/*.launch
+**/*.elf
+**/*.hex
+**/*.bin
+**/*.map
+**/*.lst
+**/*.o
+**/*.d
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
