@@ -9,7 +9,7 @@ An interrupt-driven, dual-UART message parser for STM32 (tested on NUCLEO-G431RB
 ---
 
 ## 📹 Demo Video
-[![Demo on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://youtu.be/NewqxMn0cwg)
+[![Demo on YouTube](https://img.youtube.com/vi/NewqxMn0cwg/hqdefault.jpg)](https://www.youtube.com/watch?v=NewqxMn0cwg)
 
 ---
 
