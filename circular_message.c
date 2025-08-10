@@ -2,7 +2,7 @@
  * circular_message.c
  *
  *  Created on: Jul 10, 2025
- *      Author: Stajyer4
+ *      Author: Erkin Coskun Ruhi
  */
 
 
@@ -39,3 +39,4 @@ int CircularBuffer_Read(CircularBuffer *cb, uint8_t *data){
 	cb -> tail = (cb -> tail + 1) % CIRC_BUF_SIZE;
 	return 1;
 }
+
